@@ -1,9 +1,4 @@
-<style>
-body {
-    background-color: green;
-    opacity: 0.3;
-  }
-  .nice {   color: rgb(38, 0, 128);
-    font-family: sans-serif;
+p {color: lightgreen}
+.main {
+    background-color: greenyellow;
 }
-</style>
