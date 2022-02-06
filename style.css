@@ -1,6 +1,9 @@
 <style>
-{background-color: rgb(189, 230, 173);}
-.nice {
+body {
+    background-color: green;
+    opacity: 0.3;
+  }
+  .nice {   color: rgb(38, 0, 128);
     font-family: sans-serif;
 }
 </style>
